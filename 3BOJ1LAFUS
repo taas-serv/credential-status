@@ -1,0 +1,27 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/vc/status-list/2021/v1",
+    "https://w3id.org/security/suites/ed25519-2020/v1"
+  ],
+  "id": "https://taas-serv.github.io/credential-status/3BOJ1LAFUS",
+  "type": [
+    "VerifiableCredential",
+    "StatusList2021Credential"
+  ],
+  "credentialSubject": {
+    "id": "https://taas-serv.github.io/credential-status/3BOJ1LAFUS#list",
+    "type": "StatusList2021",
+    "encodedList": "H4sIAAAAAAAAA-3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAP4GcwM92tQwAAA",
+    "statusPurpose": "revocation"
+  },
+  "issuer": "did:key:z6MkhVTX9BF3NGYX6cc7jWpbNnR7cAjH8LUffabZP8Qu4ysC",
+  "issuanceDate": "2023-08-13T11:43:05.788Z",
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2023-08-13T11:43:05Z",
+    "verificationMethod": "did:key:z6MkhVTX9BF3NGYX6cc7jWpbNnR7cAjH8LUffabZP8Qu4ysC#z6MkhVTX9BF3NGYX6cc7jWpbNnR7cAjH8LUffabZP8Qu4ysC",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "z3RLKtAQWA1JygW9UB8X5DdEksCskpVvdXyo4SyTmF8Sfj5fcCuMCJRtSoYF8wExUFRRWH4vfVkBLSLh6kcjQdsR1"
+  }
+}
