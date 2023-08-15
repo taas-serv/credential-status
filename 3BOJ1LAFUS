@@ -15,13 +15,13 @@
     "encodedList": "H4sIAAAAAAAAA-3BMQ0AAAACIGf_0LbwAhoAAAAAAAAAAAAAAIC_AfqBUGnUMAAA",
     "statusPurpose": "revocation"
   },
-  "issuer": "did:key:z6Mkmy5xuY7Bxn7jPMxwKwXaK9J2PHkyz5zUcj8pQEwpZfbL",
-  "issuanceDate": "2023-08-15T02:38:56.711Z",
+  "issuer": "did:key:z6MkgV6P2uSSSc3emWXgAnp7V5RVPeKuAfASrQhmC8UeDC2q",
+  "issuanceDate": "2023-08-15T02:39:54.367Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2023-08-15T02:38:56Z",
-    "verificationMethod": "did:key:z6Mkmy5xuY7Bxn7jPMxwKwXaK9J2PHkyz5zUcj8pQEwpZfbL#z6Mkmy5xuY7Bxn7jPMxwKwXaK9J2PHkyz5zUcj8pQEwpZfbL",
+    "created": "2023-08-15T02:39:54Z",
+    "verificationMethod": "did:key:z6MkgV6P2uSSSc3emWXgAnp7V5RVPeKuAfASrQhmC8UeDC2q#z6MkgV6P2uSSSc3emWXgAnp7V5RVPeKuAfASrQhmC8UeDC2q",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z639xVo2g1X9wcM4H3cMCB6s9WPXEgfvt173g5bjjFyDeHxKwtcFH4WKrZx9J4zGJ3zhCa5jAVCHckrX8BnEmACgQ"
+    "proofValue": "z4sZtuLJBXi44UtTTBEs1uxk9bnjPtvxwL6V4RXLHFZk8HLzh5xNyKs5bDpBFMqf5A4AYh6uwrSVk21NuhMwuTRjN"
   }
 }
