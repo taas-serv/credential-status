@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://taas-serv.github.io/credential-status/3BOJ1LAFUS#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BMQ0AAAwDoKXf_Buui15A_gAAAAAAAAAAAAAAAOYK5k1OQ9QwAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BMQEAAAwCoLn-oW3hBXwOAAAAAAAAAAAAAABgrgbSrGzUMAAA",
     "statusPurpose": "revocation"
   },
   "issuer": "did:key:z6MkgCgmV2ka7ffGkbfx5sQoG6Vq3ZJDFXATVXKTXj1GAZRL",
-  "issuanceDate": "2023-08-17T01:34:09.567Z",
+  "issuanceDate": "2023-08-17T01:58:13.280Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2023-08-17T01:34:09Z",
+    "created": "2023-08-17T01:58:13Z",
     "verificationMethod": "did:key:z6MkgCgmV2ka7ffGkbfx5sQoG6Vq3ZJDFXATVXKTXj1GAZRL#z6MkgCgmV2ka7ffGkbfx5sQoG6Vq3ZJDFXATVXKTXj1GAZRL",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z5QPP4C5pUH9rWpgkk26BRKZtFM1taCFsJaDGZoagkSRWqTjjqT32DdnePj1a1pwJerM8qbwEAKeSjaXoBiUsrbBK"
+    "proofValue": "z4x6XeeRUz5uif3p8wA3rgcL4VbbC6KQd73wvDn8cxJvcsetECrzqFkVLVgUnAhmnPMVeeXUZmYBToz27AUqu7H71"
   }
 }
