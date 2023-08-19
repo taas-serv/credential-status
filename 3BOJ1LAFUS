@@ -11,9 +11,9 @@
   "credentialSubject": {
     "id": "https://taas-serv.github.io/credential-status/3BOJ1LAFUS#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BMQEAAAgDIGf2BbeFF7BpBgAAAAAAAAAAAAAA4NkBToQxJNQwAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BQQ0AAAgEIHW75ga3hS9gelMAAAAAAAAAAAAAAADPDuFjPLzUMAAA",
     "statusPurpose": "revocation"
   },
-  "issuer": "did:key:z6Mktqncr1dsKbAeVcuKgstoUPmX25e77fQGMjgQsKnqepgP",
-  "issuanceDate": "2023-08-19T12:06:54.515Z"
+  "issuer": "did:key:z6Mkm4k9JxXZC7ZsKn626sjyoxi8TkQJb6kpy2n662nHAXSm",
+  "issuanceDate": "2023-08-19T12:13:34.299Z"
 }
